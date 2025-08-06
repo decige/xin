@@ -1,0 +1,9 @@
+# 过滤依赖包（必加）
+node_modules/
+# 过滤打包产物（如果有）
+dist/
+# 过滤VS Code配置（可选）
+.vscode/
+# 过滤日志、缓存等临时文件
+*.log
+.DS_Store
